@@ -77,4 +77,4 @@ Sự đóng góp của bạn sẽ khiến cho project ngày càng tốt hơn, c�
 <!-- CONTACT -->
 ## ☎️ **Contact**
 
-- LunarKrystal - [Facebook](https://facebook.com/LunarKrystal.Dev) - [GitHub](https://github.com/LunarKrystal) - lunarkrystal.team@gmail.com
+- ThanhPhuc - [Facebook](https://facebook.com/NgThPhuc.profile) - [GitHub](https://github.com/ThanhPhucDevVn) - contact@thanhphuc.dev
