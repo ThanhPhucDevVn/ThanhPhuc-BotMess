@@ -13,7 +13,7 @@
     "language": "vi",
     "DeveloperMode": false,
     "autoCreateDB": true,
-    "allowInbox": false,
+    "allowInbox": true,
     "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
@@ -22,7 +22,7 @@
     "FACEBOOK_ADMIN": "https://www.facebook.com/NgThPhuc.profile",
     "BOTNAME": "Sịp Rách",
     "PREFIX": "!",
-    "BOXADMIN": "",
+    "BOXADMIN": "100070045895717",
     "ADMINBOT": [
         "100070045895717"
     ],
