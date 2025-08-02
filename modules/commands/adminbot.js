@@ -32,7 +32,7 @@ Telegram: @ThanhPhucDev
   `;
 
   // Đường dẫn đến ảnh trong thư mục hiện tại
-  const imagePath = path.join(__dirname, "admin.jpg");
+  const imagePath = path.join(__dirname, "ThanhPhuc.jpg");
 
   // Kiểm tra nếu ảnh tồn tại
   if (!fs.existsSync(imagePath)) {
