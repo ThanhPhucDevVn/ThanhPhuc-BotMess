@@ -1,4 +1,4 @@
-# Mirai Bot Unofficial🤖<sub><sub>v3.0.0🚀</sub></sub>
+# ThanhPhuc Bot Unofficial🤖<sub><sub>v3.0.0🚀</sub></sub>
 <p align="center">
     <a href="https://nodejs.org/dist/v20.17.0"><img src="https://img.shields.io/badge/Nodejs%20Support-20.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v20.x"></a>
     <img alt="size" src="https://img.shields.io/github/repo-size/LunarKrystal/Mirai.svg?style=flat-square&label=size">
@@ -6,7 +6,6 @@
     <a href="https://github.com/LunarKrystal/Mirai/commits"><img alt="Commits" src="https://img.shields.io/github/commit-activity/m/LunarKrystal/Mirai.svg?label=commit&style=flat-square"></a>
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=LunarKrystal.Mirai">
 <img alt="size" src="https://img.shields.io/badge/license-GPL--3.0-green?style=flat-square&color=brightgreen">
-<a href="https://github.com/LunarKrystal/Mirai"><img src="https://i.imgur.com/sxW5AWa.png" alt="Logo"></a>
 <p align="center">
     A Simple MiraiBot for starting a Messenger Chatbot.
     <br />
