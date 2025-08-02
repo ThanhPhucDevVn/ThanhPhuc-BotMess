@@ -63,7 +63,7 @@ this.run = async function({ api, event, args }) {
         for (const cmd of array) {
             msg += `│\n│ ${cmd.cmdCategory.toUpperCase()}\n├────────⭔\n│ Tổng lệnh: ${cmd.nameModule.length} lệnh\n│ ${cmd.nameModule.join(", ")}\n├────────⭔\n`;
         }
-        msg += `📝 Tổng số lệnh: ${cmds.size} lệnh\n👤 Tổng số admin bot: ${admin.length}\n→ Tên Bot: ${NameBot}\n🔰 Phiên bản: ${version}\n→ Admin: Phạm Minh Đồng\n📎 Link: ${global.config.FACEBOOK_ADMIN}\n${prefix}help + tên lệnh để xem chi tiết\n${prefix}help + all để xem tất cả lệnh`;
+        msg += `📝 Tổng số lệnh: ${cmds.size} lệnh\n👤 Tổng số admin bot: ${admin.length}\n→ Tên Bot: ${NameBot}\n🔰 Phiên bản: ${version}\n→ Admin: Nguyễn Thanh Phúc\n📎 Link: ${global.config.FACEBOOK_ADMIN}\n${prefix}help + tên lệnh để xem chi tiết\n${prefix}help + all để xem tất cả lệnh`;
         return api.sendMessage(`╭─────────────⭓\n${msg}`, tid);
     }
 
@@ -103,4 +103,5 @@ function S(k) {
 function TextPr(permission) {
     p = permission;
     return p == 0 ? "Thành Viên" : p == 1 ? "Quản Trị Viên" : p == 2 ? "Admin Bot" : "Toàn Quyền";
+
 }
