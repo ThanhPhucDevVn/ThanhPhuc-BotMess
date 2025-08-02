@@ -7,13 +7,13 @@
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=LunarKrystal.Mirai">
 <img alt="size" src="https://img.shields.io/badge/license-GPL--3.0-green?style=flat-square&color=brightgreen">
 <p align="center">
-    A Simple MiraiBot for starting a Messenger Chatbot.
+    A Simple ThanhphucBot for starting a Messenger Chatbot.
     <br />
     <br />
     
 ## 📝 **introduce**
 <p>
-<strong>Mirai Bot V3 Unofficial</strong> Là một dự án được DongDev update và tiếp tục phát triển từ project Mirai-V2 của Catalizcs and SpermLord xây dựng.
+<strong>ThanhPhuc Bot V3 Unofficial</strong> Là một dự án được DongDev update và tiếp tục phát triển từ project Mirai-V2 của ThanhPhuc xây dựng.
 </p>
 
 ## 📜 **Installation**
