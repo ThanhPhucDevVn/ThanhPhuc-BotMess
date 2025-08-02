@@ -84,7 +84,7 @@ module.exports = (text, type) => {
       process.stderr.write(co(`\r[ ERROR ] > ${text}`) + '\n');
       break;
     case "error":
-      process.stderr.write(chalk.bold.hex("#ff0000").bold(`\r[ ERROR ]`) + ` > ${text}` + '\n');
+      process.stderr.write(chalk.bold.hex("#ff0000").bold(`\r[ ThanhPhuc ERROR ]`) + ` > ${text}` + '\n');
       break;
     default:
       process.stderr.write(chalk.bold(co(`\r${String(type).toUpperCase()} ${text}`) + '\n'));
@@ -108,15 +108,15 @@ module.exports.load = (data, option) => {
   let coloredData = '';
   switch (option) {
     case 'warn':
-      coloredData = gradient("blue", "purple", "yellow", "#81ff6e")('[ LOGIN ] >' + data);
+      coloredData = gradient("blue", "purple", "yellow", "#81ff6e")('[ ThanhPhuc LOGIN ] >' + data);
       console.log(chalk.bold(coloredData));
       break;
     case 'error':
-      coloredData = chalk.bold.hex('#FF0000')('[ ERROR ] >') + chalk.bold.red(data);
+      coloredData = chalk.bold.hex('#FF0000')('[ ThanhPhuc ERROR ] >') + chalk.bold.red(data);
       console.log(coloredData);
       break;
     default:
-      coloredData = gradient("blue", "purple", "yellow", "#81ff6e")('[ LOGIN ] >' + data);
+      coloredData = gradient("blue", "purple", "yellow", "#81ff6e")('[ ThanhPhuc LOGIN ] >' + data);
       console.log(chalk.bold(coloredData));
       break;
   }
